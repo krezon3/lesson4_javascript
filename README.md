@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+6/16/2017
 
 ### Student Name:  
-(First and Last Name)
+Christian Pughe
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To understand the process of creating algorithms with html and javascript.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+ https://krezon3.github.io/lesson4_javascript/
+ 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learning about variables and there use to store data in memory.
+2. Learning that script his the translated version of what the proram sees.
+3. Learning about primitve, composite, and special data types.
 
